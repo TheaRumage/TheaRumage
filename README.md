@@ -43,7 +43,7 @@ I am a current student with a profound interest in technology and a dedication t
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/GFACT-SANS%20Institute-2D72D9?style=for-the-badge&logo=SANS&logoColor=white" />
-<img src="https://www.giac.org/sites/default/files/styles/large/public/2023-04/GFACT%20Badge%20-%20Purple%20-%20Transparent.png" alt="GIAC GFACT Badge" />
+<img src="https://www.giac.org/sites/default/files/styles/large/public/2023-04/GISF%20Badge%20-%20Blue%20-%20Transparent.png" alt="GIAC Information Security Fundamentals (GISF) Badge" />
 
 
 </div>
