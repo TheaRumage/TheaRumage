@@ -4,18 +4,20 @@ I am a student currently studying Cybersecurity with background in Programming a
 
 ## Objective
 
+I am interested in studying the role of machine learning in Cybersecurity and Data Modeling. 
 
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      | |
-|                | |
-| Scripting and Automation for Threat Mitigation | |
+|            Cybersecurity                            | 
+|-----------------------------------------------|
+| Linux Enivorment | 
+| SIEM Implementation and Log Analysis          | 
+| Network Traffic Monitoring and Attack Detection | 
+| Data Modeling with SiLK         |
+| Incident Response Planning and Execution      | 
+| Password Cracking with Hashcat and JohntheRipper |
+| Scripting and Automation for Threat Mitigation | 
 
 ## Tools
 
@@ -25,6 +27,8 @@ I am a student currently studying Cybersecurity with background in Programming a
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++ Badge" />
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift Badge" />
+
 </div>
 
 ### Network
@@ -32,27 +36,22 @@ I am a student currently studying Cybersecurity with background in Programming a
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SiLK-0B3D91?style=for-the-badge&logoColor=white" alt="SiLK Badge" />
     <img src="https://img.shields.io/badge/-Snort-E4002B?style=for-the-badge&logoColor=white" alt="Snort Badge" />
+    <img src="https://img.shields.io/badge/-Nmap-004a80?style=for-the-badge&logoColor=white" alt="Nmap Badge" />
+    <img src="https://img.shields.io/badge/-Netcat-4E4E4E?style=for-the-badge&logoColor=white" alt="Netcat Badge" />
+    <img src="https://img.shields.io/badge/-tcpdump-005f87?style=for-the-badge&logoColor=white" alt="tcpdump Badge" />
+</div>
 
+### Data Processing
+<div>
+    <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas Badge" />
+    <img src="https://img.shields.io/badge/-SiLK-0B3D91?style=for-the-badge&logoColor=white" alt="SiLK Badge" />
 
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Badge" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Data Processing
-<div>
-    <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas Badge" />
 </div>
 
 ## Certifications
@@ -71,4 +70,3 @@ I am a student currently studying Cybersecurity with background in Programming a
 </div>
 
 ## Projects
-[to be added]
