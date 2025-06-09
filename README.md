@@ -44,11 +44,11 @@ I am a current student with a profound interest in technology and a dedication t
 <div>
 <img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
 <img src="https://exams.giac.org/api/v2/certification-logo/gpyc" width="150" alt="GIAC GCIA Certification Badge" />
+<img src="https://exams.giac.org/api/v2/certification-logo/gsec" width="150" alt="GIAC GCIA Certification Badge" />
 <img src="https://exams.giac.org/api/v2/certification-logo/gcih" width="150" alt="GIAC GCIA Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
+<img src="https://exams.giac.org/api/v2/certification-logo/gisf" width="150" alt="GIAC GCIA Certification Badge" />
+<img src="https://exams.giac.org/api/v2/certification-logo/gfact" width="150" alt="GIAC GCIA Certification Badge" />
+<img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" alt="GIAC GCIA Certification Badge" />
 
 
 
