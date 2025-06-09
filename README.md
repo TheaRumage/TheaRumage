@@ -44,7 +44,8 @@ I am a current student with a profound interest in technology and a dedication t
 <div>
 <img src="https://img.shields.io/badge/GFACT-SANS%20Institute-2D72D9?style=for-the-badge&logo=SANS&logoColor=white" />
 <img src="https://img.shields.io/badge/GISF-SANS%20Institute-2D72D9?style=for-the-badge&logoColor=white" alt="SANS GISF Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" />
+<img src="<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
+" />
 
 
 
