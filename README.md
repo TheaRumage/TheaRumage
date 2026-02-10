@@ -1,6 +1,6 @@
 # Hello, I'm Thea
 
-I am a student currently studying Cybersecurity with background in Programming and Data Science.
+I have a backgroun Cybersecurity, Programming, and Data Science.
 
 ## Objective
 
