@@ -1,10 +1,10 @@
 # Hello, I'm Thea
 
-I have a backgroun Cybersecurity, Programming, and Data Science.
+I have a background in Cybersecurity, Programming, and Data Science.
 
 ## Objective
 
-I am interested in studying the role of machine learning in Cybersecurity and Data Modeling. 
+My current projects include studying the role of machine learning in Cybersecurity and Data Modeling. 
 
 ## Skills
 
