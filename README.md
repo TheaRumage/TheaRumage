@@ -45,7 +45,7 @@ My current projects include studying the role of machine learning in Cybersecuri
 
 ### Data Processing
 <div>
-    <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas Badge" />
+    <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
     <img src="https://img.shields.io/badge/-SiLK-0B3D91?style=for-the-badge&logoColor=white" alt="SiLK Badge" />
 
 </div>
@@ -57,7 +57,8 @@ My current projects include studying the role of machine learning in Cybersecuri
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Badge" />
+    <img src="https://img.shields.io/badge/-AWS-23FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Badge" />
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt=Azure Badge"
 </div>
 
 ## Certifications
