@@ -9,7 +9,7 @@ My current projects include studying the role of machine learning in Cybersecuri
 ## Skills
 
 
-|            Cybersecurity                            | 
+|            Cybersecurity                          
 |-----------------------------------------------|
 | Linux Enivorment | 
 | SIEM Implementation and Log Analysis          | 
@@ -24,10 +24,11 @@ My current projects include studying the role of machine learning in Cybersecuri
 ### Coding Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++ Badge" />
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift Badge" />
+    <img src="https://img.shields.io/badge/-SQL-0388FC?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL" />
 
 </div>
 
@@ -49,6 +50,11 @@ My current projects include studying the role of machine learning in Cybersecuri
 
 </div>
 
+### Databases
+<div>
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Badge" />
@@ -66,8 +72,6 @@ My current projects include studying the role of machine learning in Cybersecuri
     <img src="https://exams.giac.org/api/v2/certification-logo/gisf" width="150" alt="GIAC GISFCertification Badge" />
     <img src="https://exams.giac.org/api/v2/certification-logo/gfact" width="150" alt="GIAC GFACT Certification Badge" />
     <img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" alt="GIAC Certification Badge" />
-
-
 
 
 </div>
