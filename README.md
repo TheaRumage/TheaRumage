@@ -56,13 +56,16 @@ My current projects include studying the role of machine learning in Cybersecuri
 
 ## Certifications
 <div>
-<img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gpyc" width="150" alt="GIAC GPYC Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gsec" width="150" alt="GIAC GSEC Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gcih" width="150" alt="GIAC GCIH Certification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gisf" width="150" alt="GIAC GISFCertification Badge" />
-<img src="https://exams.giac.org/api/v2/certification-logo/gfact" width="150" alt="GIAC GFACT Certification Badge" />
-<img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" alt="GIAC Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gpen" width="150" alt="GIAC GPEN Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gmle" width="150" alt="GIAC GMLE Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gosi" width="150" alt="GIAC GOSI Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gcia" width="150" alt="GIAC GCIA Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gpyc" width="150" alt="GIAC GPYC Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gsec" width="150" alt="GIAC GSEC Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gcih" width="150" alt="GIAC GCIH Certification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gisf" width="150" alt="GIAC GISFCertification Badge" />
+    <img src="https://exams.giac.org/api/v2/certification-logo/gfact" width="150" alt="GIAC GFACT Certification Badge" />
+    <img src="https://images.credly.com/size/680x680/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150" alt="GIAC Certification Badge" />
 
 
 
